@@ -1,0 +1,6 @@
+.compte_container{
+    width: 20%;
+    height:100px;
+    display: flex;
+    background-color: chocolate;
+}
