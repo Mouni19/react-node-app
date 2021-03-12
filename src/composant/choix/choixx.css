@@ -1,0 +1,11 @@
+.choixcontainer{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.choixform{
+    width: 60%;
+    height: 80%;
+}

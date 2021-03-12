@@ -1,0 +1,29 @@
+.compte_container{
+    width: 100%;
+    height: 100vh;
+    
+    /*display: flex;
+    justify-content: space-between;
+    flex-direction: column;*/
+}
+.entete{
+    width: 80%;
+    height: 10rem;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin: auto;
+}
+.entete>Button{
+    margin: 2rem;
+}
+.compte_container > h3{
+    margin-left: auto;
+}
+.count{
+    width: 70%;
+    height: 10rem;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+}
